@@ -6,6 +6,8 @@ En el ejemplo malo Customer inicializa un objeto Order directamente creando una 
 En el ejemplo bueno Customer depende de una abstraccion (interfaz o clase abstracta) en vez de en una clase directamente
 
 Pregunta: ¿Por qué abstracción en vez de dependencias? Ejemplos de casos negativos
+
+Este comentario es una prueha de git *IGNORAR*
  */
 public class GoodCustomer {
     private Orderable order;
